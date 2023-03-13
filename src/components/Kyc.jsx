@@ -24,8 +24,7 @@ export default function Kyc() {
         mode: "no-cors",
         cache: "default",
         headers: {
-          Authorization:
-            "Bearer sk_test_10a36dd7df429917e44cee5bfa77da90978c7e24",
+          Authorization: `Bearer sk_test_10a36dd7df429917e44cee5bfa77da90978c7e24`,
           "Content-Type": "application/json",
         },
       })
